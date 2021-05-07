@@ -31,3 +31,6 @@ pyplot.show()
 ## some hidden layers idk how many
 
 ## output in multiple nodes ((?))
+
+
+# pushing some garbage lol
