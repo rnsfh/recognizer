@@ -34,4 +34,4 @@ pyplot.show()
 
 
 # pushing some garbage lol
-# roflmao
+# what a fucking reatreded cocde
