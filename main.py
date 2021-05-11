@@ -33,5 +33,4 @@ pyplot.show()
 ## output in multiple nodes ((?))
 
 
-# pushing some garbage lol
-# what a fucking reatreded cocde
+# still doing scripts lOl
