@@ -34,4 +34,4 @@ pyplot.show()
 
 
 # still doing scripts lOl
-# still...DOING...
+# still...DOING...gargagsae
